@@ -5,5 +5,7 @@ For code formatting, [refer](https://docs.github.com/en/get-started/writing-on-g
 
 ## [3. Data Manipulation with pandas](https://github.com/heramb-joshi/DataCampDataAnalyst/blob/main/3.%20Data%20Manipulation%20with%20pandas.md)
 
+## [4. Joining Data with pandas](https://github.com/heramb-joshi/DataCampDataAnalyst/blob/main/3.%20Data%20Manipulation%20with%20pandas.md)
+
 
 
